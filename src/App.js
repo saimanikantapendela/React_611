@@ -12,6 +12,7 @@ class App extends Component {
 			<Navbar dark color="primary">
 			  <div className="container">
 				<NavbarBrand href="/">Ristorante Con Fusion</NavbarBrand>
+				<NavbarBrand href="/">MY CLOUD PROJECT</NavbarBrand>
 			  </div>
 			</Navbar>
 		  </div>
